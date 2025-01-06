@@ -1,0 +1,13 @@
+{
+  "${ModID}:ScamArtistCutscene": {
+    "NAME": "William",
+    "BLOCKING_TEXTS": [],
+    "DESCRIPTIONS": [
+      "you wanna go?"
+    ],
+    "OPTIONS": [
+      "wahoo",
+      "nuh uh"
+    ]
+  }
+}
